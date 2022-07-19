@@ -55,7 +55,6 @@ class MybatisplusApplicationTests {
     public void testEnum(){
         System.out.println(userService.getById(1));
         System.out.println(productService.getById(1));
-        System.out.println("push GitHub");
     }
 
 }
