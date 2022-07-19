@@ -57,6 +57,7 @@ class MybatisplusApplicationTests {
         System.out.println(productService.getById(1));
         System.out.println(productService.getById(1));
         System.out.println(productService.getById(2));
+        System.out.println(productService.getById(1));
     }
 
 }
